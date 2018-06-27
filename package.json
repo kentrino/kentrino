@@ -1,0 +1,12 @@
+{
+  "name": "kentrino",
+  "version": "0.0.1",
+  "description": "kentrino cli",
+  "repository": "kentrino/kentrino",
+  "main": "index.js",
+  "bin": "src/cli.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT"
+}
