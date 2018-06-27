@@ -1,9 +1,8 @@
 {
   "name": "kentrino",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "kentrino cli",
   "repository": "kentrino/kentrino",
-  "main": "index.js",
   "bin": "src/cli.js",
   "scripts": {
   },
